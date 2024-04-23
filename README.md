@@ -1,4 +1,4 @@
-# git_testas
+# git testas
 
 Tai yra prezentacija apie GIT.
 
